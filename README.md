@@ -3,7 +3,7 @@
 A Streamlit app for managing recipes. Add recipes, search by ingredient, browse and sort them, scale ingredients to any number of servings, get a random recipe, or see what you can cook with what you have at home.
 
 - **Deployed app:** ["https://recipemanagerabdulaziz.streamlit.app/"]
-- **Video demo:** [ADD LINK HERE]
+- **Video demo:** ["https://youtu.be/NXPUsR0-kpA"]
 
 ## Features
 

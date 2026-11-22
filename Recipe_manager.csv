@@ -1,0 +1,9 @@
+Recipe_name,Recipe_Category,Ingredients,Prep_time,Servings,Cooking_Instructions,Difficulty_level,rating
+Pancakes,Breakfast,"200g flour, 300ml milk, 2 eggs, 1 tbsp sugar, pinch of salt",15,4,"Mix flour, sugar and salt | Whisk in milk and eggs | Fry ladles of batter until golden on both sides",Easy,4.0
+Shakshuka,Breakfast,"4 eggs, 400g tomatoes, 1 onion, 2 cloves garlic, 1 tsp cumin, salt",25,2,Fry onion and garlic | Add tomatoes and cumin and simmer | Crack in eggs and cover until set,Easy,5.0
+Chicken Caesar Salad,Lunch,"2 chicken breasts, 1 romaine lettuce, 50g parmesan, 100g croutons, 4 tbsp caesar dressing",20,2,"Grill the chicken | Chop lettuce and slice chicken | Toss with dressing, parmesan and croutons",Easy,3.0
+Falafel Wraps,Lunch,"250g chickpeas, 1 onion, 3 cloves garlic, 1 tsp cumin, 4 pita breads, 2 tomatoes",35,4,"Blend chickpeas, onion, garlic and cumin | Shape into balls and fry | Serve in pita with tomatoes",Medium,4.0
+Chicken Machboos,Dinner,"1kg chicken, 500g basmati rice, 2 onions, 3 tomatoes, 2 tbsp baharat, 1 dried lime, salt",90,6,"Brown the onions and chicken | Add tomatoes, baharat and dried lime with water | Simmer until chicken is tender | Cook rice in the broth",Hard,5.0
+Spaghetti Bolognese,Dinner,"400g spaghetti, 500g minced beef, 1 onion, 400g tomatoes, 2 cloves garlic, salt",45,4,Brown the beef with onion and garlic | Add tomatoes and simmer | Boil the spaghetti | Combine and serve,Medium,4.0
+Chocolate Brownies,Dessert,"200g dark chocolate, 150g butter, 200g sugar, 3 eggs, 100g flour",40,8,Melt chocolate and butter | Whisk in sugar and eggs | Fold in flour | Bake at 180C for 25 minutes,Medium,5.0
+Fruit Salad,Dessert,"2 apples, 2 bananas, 200g strawberries, 1 orange, 1 tbsp honey",10,4,Chop all the fruit | Add orange juice and honey | Toss and chill,Easy,
